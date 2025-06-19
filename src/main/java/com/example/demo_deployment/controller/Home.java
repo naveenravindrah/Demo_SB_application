@@ -8,7 +8,7 @@ public class Home {
 
     @RequestMapping("/deploy")
     public String hello() {
-        return "Hi this is Demo Spring Boot Application";
+        return "Hi this is the first Demo Spring Boot Application";
     }
 
 }
